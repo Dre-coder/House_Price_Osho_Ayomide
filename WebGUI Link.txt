@@ -1,4 +1,6 @@
 Name: Osho Ayomide
 Matric Number: 23CG034142
+Learning Algorithm Used: Logistic Regression
+Model Persistence Method: Pickle
 Github repo: https://github.com/Dre-coder/House_Price_Osho_Ayomide
-Hosted link:
+Hosted link: https://house-price-osho-ayomide.vercel.app/
